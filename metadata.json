@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana AI Photo Studio",
+  "description": "An advanced AI-powered photo editing application leveraging the Gemini API's 'Nano Banana' model to provide a suite of powerful editing tools. Features include background removal, object erasing, color correction, creative filters, and much more, all driven by generative AI.",
+  "requestFramePermissions": []
+}
